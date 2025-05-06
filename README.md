@@ -37,9 +37,8 @@ I'm a passionate **full-stack developer** with a strong focus on modern web tech
 
 ## 📫 Let's Connect
 
-- 📧 Email: shavqiddin.tilovov@example.com
-- 💬 Telegram: [@shavqiddin](https://t.me/shavqiddin)
-- 🌐 Portfolio: *(add your link here if you have one)*
+- 📧 Email: shavqiddintilovov0@gmail.com
+- 💬 Telegram: @Tilav_web
 
 ---
 
